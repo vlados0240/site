@@ -193,3 +193,15 @@ footer
 	border-top: 3px solid #d8d8d8;
 	margin-bottom: 40px;
 }
+
+@media (max-width: 929){
+	.content{
+		margin-right: 20px;
+		margin-left: 20px;
+	}
+
+	footer image {
+		margin-right: 20px;
+		margin-left: 20px;
+	}
+}
